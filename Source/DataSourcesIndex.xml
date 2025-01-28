@@ -1,0 +1,23 @@
+ <Application>
+ 
+<Header>
+
+  <Version val="14100.00"/>
+
+  <WithIsn val="Y"/>
+
+  <Exe comp="-1"/>
+
+  <LastIsn val="1"/>
+
+  <LastIsnFolder val="0"/>
+
+</Header>
+
+<DataRepositoryProperties/>
+ <DataSourceRepository>
+  <DataObjects>
+ 
+<DataObject PhysicalName="TestingGIT" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="1" name="TestingGIT" offset="228" length="3080"/>  </DataObjects>
+ </DataSourceRepository>
+ <LastModified val="31158619-187081093"/>  </Application>

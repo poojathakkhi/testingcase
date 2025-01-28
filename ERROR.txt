@@ -1,0 +1,91 @@
+﻿ <-1> 28/01/2025 13:35:57.015     [Info   ] - Starts Loading Component : D:\MagicXPA410\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 28/01/2025 13:35:57.030     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 28/01/2025 13:35:57.259     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 28/01/2025 13:35:57.260     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 28/01/2025 13:35:57.283     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 28/01/2025 13:35:57.290     [Info   ] - Starts Loading Component : System 
+ <-1> 28/01/2025 13:35:57.335     [Info   ] - Ends Loading Component : System 
+ <-1> 28/01/2025 13:35:57.336     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 28/01/2025 13:35:57.409     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 28/01/2025 13:35:57.409     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 28/01/2025 13:35:57.554     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 28/01/2025 13:35:57.554     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 28/01/2025 13:35:57.587     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 28/01/2025 13:35:57.588     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 28/01/2025 13:35:57.614     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 28/01/2025 13:35:57.640     [Info   ] - Ends Loading Component : D:\MagicXPA410\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 28/01/2025 13:35:57.658     [Info   ] -   License file: "D:\MagicXPA410\license.dat", License feature: 'MGCSTK'.
+ <-1> 28/01/2025 13:35:57.664     [Info   ] -   The project was successfully opened.
+ <195575754508702368> 28/01/2025 13:36:45.861     [Action ] -   >>Starts load Batch Task - 'Main Program (UserFunctionality)' in Query mode (Task Instance: 1)
+ <195575754508702368> 28/01/2025 13:36:45.862     [Action ] -   Ends Load Task
+ <195575754508702368> 28/01/2025 13:36:45.881     [Action ] -   Starts Task Prefix
+ <195575754508702368> 28/01/2025 13:36:45.909     [Action ] -     Flow - Update: 'V: gV:FunctionsList' <== exp #41
+ <195575754508702368> 28/01/2025 13:36:45.940     [Action ] -     Flow - Update: 'W: gV:FunctionsDescriptionList' <== exp #42
+ <195575754508702368> 28/01/2025 13:36:45.962     [Action ] -     Flow - Update: 'X: gV:DigitAndPunctuationList' <== exp #43
+ <195575754508702368> 28/01/2025 13:36:45.982     [Action ] -     Flow - Update: 'BB: gV:IsHebrewApp' <== exp #105
+ <195575754508702368> 28/01/2025 13:36:46.007     [Action ] -   Ends Task Prefix
+ <195575754508702368> 28/01/2025 13:36:46.317     [Action ] -   >>Starts load Batch Task - 'Main Program (TestingCaseGIT)' in Query mode (Task Instance: 2)
+ <195575754508702368> 28/01/2025 13:36:46.319     [Action ] -   Ends Load Task
+ <195575754508702368> 28/01/2025 13:36:46.667     [Action ] -     Open DB Table - 'TestingGIT (#1) (W,W)'
+ <195575754508702368> 28/01/2025 13:36:46.667     [Action ] -     >>Starts load Online Task - 'Browse - TestingGIT' in Query mode (Task Instance: 3)
+ <195575754508702368> 28/01/2025 13:36:46.697     [Action ] -     Ends Load Task
+ <195575754508702368> 28/01/2025 13:36:46.726     [Action ] -     Task Mode Change - Query
+ <195575754508702368> 28/01/2025 13:36:46.771     [Action ] -     Task Mode Change - Create
+ <195575754508702368> 28/01/2025 13:36:46.806     [Action ] -     Flow - Variable Column  'T1' (Step Forward)  
+ <195575754508702368> 28/01/2025 13:36:46.871     [Action ] -     >>  Processing Event  [Context Got Focus]  Control Name :  [T1] 
+ <195575754508702368> 28/01/2025 13:36:51.813     [Action ] -     >>  Processing Event  [Tab]  [Next Field]  Control Name :  [T1] 
+ <195575754508702368> 28/01/2025 13:36:51.831     [Action ] -     Flow - Variable Column  'T2' (Step Forward)  
+ <195575754508702368> 28/01/2025 13:36:52.665     [Action ] -     >>  Processing Event  [Tab]  [Next Field]  Control Name :  [T2] 
+ <195575754508702368> 28/01/2025 13:36:52.666     [Action ] -     Flow - Variable Column  'T3' (Step Forward)  
+ <195575754508702368> 28/01/2025 13:36:53.327     [Action ] -     >>  Processing Event  [Tab]  [Next Field]  Control Name :  [T3] 
+ <195575754508702368> 28/01/2025 13:36:53.328     [Action ] -     Flow - Variable Column  'T4' (Step Forward)  
+ <195575754508702368> 28/01/2025 13:36:56.459     [Action ] -     >>  Processing Event  [F4]  [Create Line]  Control Name :  [T4] 
+ <195575754508702368> 28/01/2025 13:36:56.475     [Action ] -     Task Mode Change - Modify
+ <195575754508702368> 28/01/2025 13:36:56.483     [Action ] -     Flow - Variable Column  'T1' (Step Forward)  
+ <195575754508702368> 28/01/2025 13:36:56.499     [Action ] -     Task Mode Change - Create
+ <195575754508702368> 28/01/2025 13:36:59.119     [Action ] -     >>  Processing Event  [Tab]  [Next Field]  Control Name :  [T1] 
+ <195575754508702368> 28/01/2025 13:36:59.123     [Action ] -     Flow - Variable Column  'T2' (Step Forward)  
+ <195575754508702368> 28/01/2025 13:36:59.878     [Action ] -     >>  Processing Event  [Tab]  [Next Field]  Control Name :  [T2] 
+ <195575754508702368> 28/01/2025 13:36:59.880     [Action ] -     Flow - Variable Column  'T3' (Step Forward)  
+ <195575754508702368> 28/01/2025 13:37:00.645     [Action ] -     >>  Processing Event  [Tab]  [Next Field]  Control Name :  [T3] 
+ <195575754508702368> 28/01/2025 13:37:00.652     [Action ] -     Flow - Variable Column  'T4' (Step Forward)  
+ <195575754508702368> 28/01/2025 13:37:01.853     [Action ] -     >>  Processing Event  [F4]  [Create Line]  Control Name :  [T4] 
+ <195575754508702368> 28/01/2025 13:37:01.868     [Action ] -     Task Mode Change - Modify
+ <195575754508702368> 28/01/2025 13:37:01.874     [Action ] -     Flow - Variable Column  'T1' (Step Forward)  
+ <195575754508702368> 28/01/2025 13:37:01.891     [Action ] -     Task Mode Change - Create
+ <195575754508702368> 28/01/2025 13:37:03.749     [Action ] -     >>  Processing Event  [Tab]  [Next Field]  Control Name :  [T1] 
+ <195575754508702368> 28/01/2025 13:37:03.751     [Action ] -     Flow - Variable Column  'T2' (Step Forward)  
+ <195575754508702368> 28/01/2025 13:37:04.581     [Action ] -     >>  Processing Event  [Tab]  [Next Field]  Control Name :  [T2] 
+ <195575754508702368> 28/01/2025 13:37:04.586     [Action ] -     Flow - Variable Column  'T3' (Step Forward)  
+ <195575754508702368> 28/01/2025 13:37:06.010     [Action ] -     >>  Processing Event  [Tab]  [Next Field]  Control Name :  [T3] 
+ <195575754508702368> 28/01/2025 13:37:06.014     [Action ] -     Flow - Variable Column  'T4' (Step Forward)  
+ <195575754508702368> 28/01/2025 13:37:07.295     [Action ] -     >>  Processing Event  [F4]  [Create Line]  Control Name :  [T4] 
+ <195575754508702368> 28/01/2025 13:37:07.318     [Action ] -     Task Mode Change - Modify
+ <195575754508702368> 28/01/2025 13:37:07.325     [Action ] -     Flow - Variable Column  'T1' (Step Forward)  
+ <195575754508702368> 28/01/2025 13:37:07.338     [Action ] -     Task Mode Change - Create
+ <195575754508702368> 28/01/2025 13:37:08.819     [Action ] -     >>  Processing Event  [Tab]  [Next Field]  Control Name :  [T1] 
+ <195575754508702368> 28/01/2025 13:37:08.820     [Action ] -     Flow - Variable Column  'T2' (Step Forward)  
+ <195575754508702368> 28/01/2025 13:37:09.688     [Action ] -     >>  Processing Event  [Tab]  [Next Field]  Control Name :  [T2] 
+ <195575754508702368> 28/01/2025 13:37:09.690     [Action ] -     Flow - Variable Column  'T3' (Step Forward)  
+ <195575754508702368> 28/01/2025 13:37:10.513     [Action ] -     >>  Processing Event  [Tab]  [Next Field]  Control Name :  [T3] 
+ <195575754508702368> 28/01/2025 13:37:10.516     [Action ] -     Flow - Variable Column  'T4' (Step Forward)  
+ <195575754508702368> 28/01/2025 13:37:12.957     [Action ] -     >>  Processing Event  [F4]  [Create Line]  Control Name :  [T4] 
+ <195575754508702368> 28/01/2025 13:37:12.975     [Action ] -     Task Mode Change - Modify
+ <195575754508702368> 28/01/2025 13:37:12.982     [Action ] -     Flow - Variable Column  'T1' (Step Forward)  
+ <195575754508702368> 28/01/2025 13:37:12.998     [Action ] -     Task Mode Change - Create
+ <195575754508702368> 28/01/2025 13:37:15.326     [Action ] -     >>  Processing Event  [Tab]  [Next Field]  Control Name :  [T1] 
+ <195575754508702368> 28/01/2025 13:37:15.330     [Action ] -     Flow - Variable Column  'T2' (Step Forward)  
+ <195575754508702368> 28/01/2025 13:37:16.843     [Action ] -     >>  Processing Event  [Tab]  [Next Field]  Control Name :  [T2] 
+ <195575754508702368> 28/01/2025 13:37:16.845     [Action ] -     Flow - Variable Column  'T3' (Step Forward)  
+ <195575754508702368> 28/01/2025 13:37:18.020     [Action ] -     >>  Processing Event  [Tab]  [Next Field]  Control Name :  [T3] 
+ <195575754508702368> 28/01/2025 13:37:18.023     [Action ] -     Flow - Variable Column  'T4' (Step Forward)  
+ <195575754508702368> 28/01/2025 13:37:19.723     [Action ] -     >>  Processing Event  [Esc]  [Exit]  Control Name :  [T4] 
+ <195575754508702368> 28/01/2025 13:37:19.745     [Action ] -     Starts Closing Online Task - 'Browse - TestingGIT' (Task Instance: 3)
+ <195575754508702368> 28/01/2025 13:37:19.752     [Action ] -       Closed database TestingGIT (#1)
+ <195575754508702368> 28/01/2025 13:37:19.794     [Action ] -   <<Ends Close Task
+ <195575754508702368> 28/01/2025 13:37:19.902     [Action ] -   >>  Processing Event  [Exit System]  Control Name :  [ N/A ] 
+ <195575754508702368> 28/01/2025 13:37:19.904     [Info   ] -   Context released : 
+ <195575754508702368> 28/01/2025 13:37:19.926     [Action ] -   Starts Closing Batch Task - 'Main Program (TestingCaseGIT)' (Task Instance: 2)
+ <195575754508702368> 28/01/2025 13:37:19.966     [Action ] -   <<Ends Close Task
+ <195575754508702368> 28/01/2025 13:37:19.968     [Action ] -   Starts Closing Batch Task - 'Main Program (UserFunctionality)' (Task Instance: 1)
+ <195575754508702368> 28/01/2025 13:37:19.996     [Action ] -   <<Ends Close Task
